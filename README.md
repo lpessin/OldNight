@@ -1,5 +1,5 @@
 # OldNight
 
-Old Night Discord bot for LBRY 
+Old Night Discord bot for LBRY - lbry-sdk
 
 
